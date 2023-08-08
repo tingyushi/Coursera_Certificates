@@ -1,2 +1,1 @@
-# Coursera_Certificates
-Coursera Certificates
+# Coursera Certificates
